@@ -1,3 +1,4 @@
 Tea Cozy Practice Web Project
 
-URL = https://jsonrest.github.io
+PRIMARY URL = https://jsonrest.github.io/TeaCozy
+ALTERNATIVE URL = https://jsonrest.github.io
